@@ -176,7 +176,7 @@
 				D85486761CA3780D004EA20E /* Info.plist */,
 			);
 			name = RpgForFun;
-			path = "/Users/stephanedepoilly/Desktop/RpgForFun-master/RpgForFun";
+			path = "/Users/stephanedepoilly/Dropbox/03. Study/Apple Swift learning/03. Learning projects - Udemy - iOS9 Swift/RpgForFun/RpgForFun";
 			sourceTree = "<absolute>";
 		};
 		D854867E1CA3780E004EA20E /* test.appTests */ = {
